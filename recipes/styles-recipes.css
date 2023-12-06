@@ -1,0 +1,30 @@
+.ingredients {
+	border: 1px dashed black;
+	display: inline-block;
+
+	padding: 5px;
+	margin: 10px auto 0px auto;
+
+	text-align: left;
+}
+
+.ingredients-container {
+	text-align: center;
+}
+
+td {
+	padding: 5px;
+	font-size: .85em;
+}
+
+.amount {
+	text-align: right;
+}
+
+.even {
+        background-color: #f8f8f8;
+}
+
+.odd {
+        background-color: #eaecf0;
+}
